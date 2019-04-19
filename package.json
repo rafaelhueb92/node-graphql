@@ -1,0 +1,24 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "My First App using graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelhueb92/node-graphql.git"
+  },
+  "author": "Rafael Hueb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelhueb92/node-graphql/issues"
+  },
+  "homepage": "https://github.com/rafaelhueb92/node-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.2.1"
+  }
+}
